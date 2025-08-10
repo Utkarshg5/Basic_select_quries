@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,email,city,country,age
+1,John,Doe,john.doe@email.com,New York,USA,28
+2,Jane,Smith,jane.smith@email.com,Los Angeles,USA,35
+3,Michael,Brown,michael.brown@email.com,Chicago,USA,42
+4,Sophia,Johnson,sophia.j@email.com,London,UK,31
+5,Liam,Williams,liam.w@email.com,Manchester,UK,22
+6,Olivia,Jones,olivia.j@email.com,Toronto,Canada,29
+7,Noah,Miller,noah.m@email.com,Vancouver,Canada,37
+8,Emma,Davis,emma.d@email.com,Sydney,Australia,26
