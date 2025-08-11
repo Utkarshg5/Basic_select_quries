@@ -1,10 +1,10 @@
-# Task 3: Writing Basic SELECT Queries
+# Writing Basic SELECT Queries
 
 ## 📌 Objective
 To learn and practice retrieving data from a database using the `SELECT` statement in SQL.
 
 ## 🛠 Tools Used
-- **DB Browser for SQLite** (or **MySQL Workbench**)
+- **DB Browser for SQLite**
 - SQL script file (`task3_select_queries.sql`)
 - Sample dataset (`task3_sample_data.csv`)
 
